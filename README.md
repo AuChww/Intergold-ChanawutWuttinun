@@ -1,1 +1,2 @@
-# Intergold-ChanawutWuttinun
+# Intergold - Junior Software Developer
+**Chanawut Wuttinun**
